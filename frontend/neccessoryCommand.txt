@@ -1,0 +1,23 @@
+Create New App
+   run : npx @react-native-community/cli init app_name
+   
+Go to app (For running android app) 
+   run : npx react-native run-android
+
+for navigate one screen to another screen need to import some library 
+
+Installation
+   run : npm install @react-navigation/native
+   run : npm install react-native-screens react-native-safe-area-context
+   run : npm install @react-navigation/native-stack
+
+Install axios to send api request from android app to //localhost:5000 or http://127.0.0.1:5000 server
+
+for icnon librarry :npm install react-native-vector-icons
+
+text selection on message : npm install react-native-selectable-text
+
+
+for the model npm install react-native-modal
+
+
